@@ -1,0 +1,52 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+/* Duck photo */
+#duck {
+	height: 300px;
+}
+
+img {
+	max-width: 300px;
+}
+
+
+/* Buttons */
+
+input {
+	display: block;
+}
+
+button {
+	padding: 15px;
+	background-color: yellow;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}

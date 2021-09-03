@@ -1,0 +1,8 @@
+The internet is simply put a connection between computers. With a deeper look into it you will see that the connection between computers is more than just a hard link. Each computer
+will be linked to a router and those routers will all be connected to each other. Then what makes the internet a usuable resource is the communication between routers
+(and their computers) that can span across the world.
+
+When you click on a link that small task creates a chain effect. The computer that requested the info on the link sends a request for the data stored on that URL. After that request 
+has been made, the originating source recognizes the request and breaks the information into packets. Those packets are then sent to the computer that has made the request.
+Each of the individual packets can travel along their own path to reach the computer. They just look for the fastest path to their destination and that can change in an instant
+for each packet.
