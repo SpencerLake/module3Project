@@ -39,8 +39,15 @@ function randmPark(event){
     let rndm = Math.floor(Math.random() * parkList.length)
     
     alert(parkList[rndm])
+    // Right here I was going to try and create a new element on the page to display the random park but realized I wont be able to test it without a server.
+    // let recommend = document.createElement('h4')
+    // recommend.appendChild(rndm)
+
 }
 
 let park = document.querySelector('#park')
 
 park.addEventListener('click', randmPark)
+
+//========================================================================================================
+
